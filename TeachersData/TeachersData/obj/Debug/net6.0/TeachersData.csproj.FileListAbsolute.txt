@@ -1,0 +1,14 @@
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\bin\Debug\net6.0\TeachersData.exe
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\bin\Debug\net6.0\TeachersData.deps.json
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\bin\Debug\net6.0\TeachersData.runtimeconfig.json
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\bin\Debug\net6.0\TeachersData.dll
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\bin\Debug\net6.0\TeachersData.pdb
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\obj\Debug\net6.0\TeachersData.GeneratedMSBuildEditorConfig.editorconfig
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\obj\Debug\net6.0\TeachersData.AssemblyInfoInputs.cache
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\obj\Debug\net6.0\TeachersData.AssemblyInfo.cs
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\obj\Debug\net6.0\TeachersData.csproj.CoreCompileInputs.cache
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\obj\Debug\net6.0\TeachersData.dll
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\obj\Debug\net6.0\refint\TeachersData.dll
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\obj\Debug\net6.0\TeachersData.pdb
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\obj\Debug\net6.0\TeachersData.genruntimeconfig.cache
+F:\mphasis\Phase-1-End_Projects\2nd Project\TeachersData\TeachersData\obj\Debug\net6.0\ref\TeachersData.dll
